@@ -1,0 +1,4 @@
+﻿  libbmp.cpp
+  lab3.cpp
+C:\Users\PC\Desktop\лаба3\lab3\lab3\lab3.cpp(2,10): fatal error C1083: Не удается открыть файл включение: libbmp.h: No such file or directory,
+  Создание кода...
